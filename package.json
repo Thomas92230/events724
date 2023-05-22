@@ -2,18 +2,13 @@
   "name": "77-events",
   "version": "0.1.0",
   "private": true,
-  "jest": {
-    "transform": {
-      "^.+\\.(js|jsx)$": "babel-jest"
-    }
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
     "md5": "^2.3.0",
     "prop-types": "^15.8.1",
-    "react": "^18.0.0",
+    "react": "^18.2.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "sass": "^1.51.0",
@@ -56,7 +51,6 @@
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.5.0",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^27.5.1",
     "prettier": "^2.6.2"
   }
 }
